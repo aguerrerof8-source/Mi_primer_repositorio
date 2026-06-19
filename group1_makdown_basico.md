@@ -16,3 +16,6 @@ Se utiliza principalmente para crear la documentación de proyectos, escribir no
 - __Documentación técnica y APIs__: Los generadores de sitios estáticos (como Docusaurus o Jekyll) y plataformas como Contentful o Read the Docs compilan archivos Markdown para crear manuales de usuario y referencias de APIs.
 - __Asistentes de IA y prompts__: Los archivos Markdown bien estructurados actúan como la base de conocimiento principal o "sistema de instrucciones" para asistentes de código y LLMs, ya que su sintaxis simple es fácil de leer para las máquinas.
 - __Wikis internas y bitácoras__: Los equipos de desarrollo los integran en herramientas de gestión de proyectos (como Jira o Notion) para redactar especificaciones técnicas y bitácoras de cambios.
+### Encabezados o Titulos
+Se crean utilizando el simbolo almohadilla (#). El numero de almohadillas indica el nivel del encabezado (Del 1 al 6)
+### Parrafos y saltos de lineas
