@@ -19,4 +19,13 @@ Se utiliza principalmente para crear la documentación de proyectos, escribir no
 ### Encabezados o Titulos
 Se crean utilizando el simbolo almohadilla (#). El numero de almohadillas indica el nivel del encabezado (Del 1 al 6)
 ### Parrafos y saltos de lineas
-*__Parrafos__:
+* __Parrafos__:Se crean simplemente escribiendo texto normal. Para separar un
+párrafo de otro, debes dejar una línea en blanco.
+* __Saltos de lienas__:Si quieres dar un salto de línea simple (sin crear un nuevo
+párrafo), debes dejar dos espacios en blanco al final de la línea y presionar Enter
+### Negrita, cursiva y texto combinado
+Para dar estilo al texto, utilizas asteriscos (*) o guiones bajos (_).
+### Listas ordenadas y no ordenadas
+- __Lista no ordenada__:Puedes usar asteriscos (*), guiones (-)
+o signos de más (+).
+__Listas ordenadas (numeradas)__: Se utilizan números seguidos de un punto.Curiosamente, Markdown indexa automáticamente, por lo que puedes usar el número 1. para todos los elementos si lo deseas.
