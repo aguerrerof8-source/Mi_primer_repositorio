@@ -7,4 +7,4 @@
 3. Elementos
  -  Sus elementos principales incluyen estilos de fuente, encabezados, listas, enlaces y bloques
 ### ¿Por qué se considera un lenguaje de marcado ligero?
-Markdown se considera un lenguaje de marcado ligero porque permite dar formato a un documento utilizando texto plano en lugar de etiquetas complejas 
+Markdown se considera un lenguaje de marcado ligero porque permite dar formato a un documento utilizando texto plano en lugar de etiquetas complejas
