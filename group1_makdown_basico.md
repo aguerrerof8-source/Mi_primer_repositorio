@@ -1,4 +1,4 @@
-   # Markdown
+# Markdown
 ### ¿Que es markdown?
 Markdown es un lenguaje de marcado ligero creado por John Gruber y Aaron
 Swartz en 2004. Su objetivo principal es permitir que las personas escriban
