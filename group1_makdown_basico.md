@@ -1,11 +1,12 @@
 # Markdown
 ### ¿Que es markdown?
-1. __Concepto__
-- Markdown es un lenguaje de marcado ligero que permite dar formato a un texto usando símbolos simples (como asteriscos o numerales) en lugar de código complejo.
-2. __Utilidad__
- - facilitar la escritura de contenido legible en texto plano que luego se puede convertir automáticamente a HTML o exportar a otros formatos visuales.
-3. __Elementos__
- -  Sus elementos principales incluyen estilos de fuente, encabezados, listas, enlaces y bloques.
+Markdown es un lenguaje de marcado ligero creado por John Gruber y Aaron
+Swartz en 2004. Su objetivo principal es permitir que las personas escriban
+utilizando un formato de texto plano fácil de leer y de escribir, el cual se puede
+convertir de forma limpia en HTML estructurado.
+A diferencia de los procesadores de texto tradicionales (como Microsoft Word),
+donde usas una interfaz visual (WYSIWYG), en Markdown utilizas caracteres
+simples (como asteriscos o almohadillas) para dar formato al texto.
 ### ¿Por qué se considera un lenguaje de marcado ligero?
 Markdown se considera un lenguaje de marcado ligero porque permite dar formato a un documento utilizando texto plano en lugar de etiquetas complejas
 ### ¿Dónde se usa Markdown en ingeniería de software?
