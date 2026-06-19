@@ -28,4 +28,4 @@ Para dar estilo al texto, utilizas asteriscos (*) o guiones bajos (_).
 ### Listas ordenadas y no ordenadas
 - __Lista no ordenada__:Puedes usar asteriscos (*), guiones (-)
 o signos de más (+).
-__Listas ordenadas (numeradas)__: Se utilizan números seguidos de un punto.Curiosamente, Markdown indexa automáticamente, por lo que puedes usar el número 1. para todos los elementos si lo deseas.
++ __Listas ordenadas (numeradas)__: Se utilizan números seguidos de un punto.Curiosamente, Markdown indexa automáticamente, por lo que puedes usar el número 1. para todos los elementos si lo deseas.
