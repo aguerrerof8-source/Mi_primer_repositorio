@@ -1,5 +1,5 @@
 # Markdown
-#### [¿Que es markdown?](https://www.youtube.com/watch?v=iFK2MuCN3YQ)
+### ¿Que es markdown?
 1. __Concepto__
 - Markdown es un lenguaje de marcado ligero que permite dar formato a un texto usando símbolos simples (como asteriscos o numerales) en lugar de código complejo.
 2. __Utilidad__
@@ -19,3 +19,4 @@ Se utiliza principalmente para crear la documentación de proyectos, escribir no
 ### Encabezados o Titulos
 Se crean utilizando el simbolo almohadilla (#). El numero de almohadillas indica el nivel del encabezado (Del 1 al 6)
 ### Parrafos y saltos de lineas
+*__Parrafos__:
